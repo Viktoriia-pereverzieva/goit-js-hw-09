@@ -80,7 +80,6 @@ function imageTemplate({ preview, original, description }) {
     </li>`
 };
 
-
 const ulElem = document.querySelector("ul.js-gallery");
 
 function imagesTemplate(arr) {
